@@ -1,6 +1,6 @@
 # Password-Maker
 
-##Website
+## Website
 * Link: https://justtrey12.github.io/Password-Maker/
 
 ## Password-Generator
